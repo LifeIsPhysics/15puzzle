@@ -3,4 +3,4 @@
 Terminal based game of 15 puzzle.
 
 Wikipedia: https://en.wikipedia.org/wiki/15_puzzle  
-Web based game version: https://15puzzle.netlify.app/
+Web based game version (not affiliated): https://15puzzle.netlify.app/
