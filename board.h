@@ -37,7 +37,7 @@ public:
                   mTiles[p2.getY()][p2.getX()]);
     }
     void randomizePuzzle(){
-        for(int i{0}; i<=2; ++i){
+        for(int i{0}; i<=1e3; ++i){
             Point p0Tile{ getEmptyTilePos() };
             Point pAdj{};
             do{
