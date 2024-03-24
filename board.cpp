@@ -19,6 +19,7 @@ std::ostream& operator<< (std::ostream& out, const Board& board){
         }
         out << '\n';
     }
+    return out;
 }
 
 bool operator==(const Board& f1, const Board& f2)
