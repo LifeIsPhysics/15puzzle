@@ -10,7 +10,7 @@ Web based game version (not affiliated): https://15puzzle.netlify.app/
 Only a recent C++ compiler and CMake is needed to build this project on your computer.  
 Using arch's package manager pacman type this command into your terminal
 ```bash
-    sudo pacman -S gcc cmake
+sudo pacman -S gcc cmake
 ```
 To build this project type this command into your terminal
 ```bash
